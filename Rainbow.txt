@@ -1,6 +1,6 @@
 Red
-Blue
 Green
 yellow
 Orange
+Blue
 NewChange
