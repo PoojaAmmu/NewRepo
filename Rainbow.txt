@@ -1,9 +1,8 @@
 Changes Added
 Black
 Red
+Purple
 Blue--
 Green
 yellow
-Orange
-NewChange
 
