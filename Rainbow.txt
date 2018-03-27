@@ -1,9 +1,14 @@
+<<<<<<< HEAD
 Changes newly Added
 Blllack
 Reeed
+=======
+Changes Added
+Black
+Red
+Purple
+>>>>>>> master
 Blue--
 Green
 yellow
-Orange
-NewChange
 
