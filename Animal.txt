@@ -1,6 +1,6 @@
-Cat
-Tiger
-AppendedDog
+1.Cat
+2.Tiger
+Appended cat and Dog
 Ant
 DonkeyAppended
 
